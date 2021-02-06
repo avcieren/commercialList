@@ -1,0 +1,23 @@
+{
+  "name": "commerciallist",
+  "version": "1.0.0",
+  "description": "simple commercial web site",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avcieren/commercialList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avcieren/commercialList/issues"
+  },
+  "homepage": "https://github.com/avcieren/commercialList#readme"
+}
