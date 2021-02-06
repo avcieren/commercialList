@@ -1,7 +1,7 @@
 {
   "name": "commerciallist",
   "version": "1.0.0",
-  "description": "simple commercial web site and mobile version updated",
+  "description": "simple commercial web site and mobile version updated asdas",
   "main": "index.js",
   "dependencies": {
     "vue": "^2.6.12"
